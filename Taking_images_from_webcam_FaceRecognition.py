@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Feb 14 19:46:33 2019
-
-@author: lappy
-"""
-
 import cv2
 face_classifier=cv2.CascadeClassifier("G:\\image dataset\\haarcascade_frontalface_alt.xml")
 
